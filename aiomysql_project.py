@@ -15,8 +15,8 @@
 # loop = asyncio.get_event_loop()
 
 # async def text_mysql():
-#     await aiomysql.connect(host='localhost', port=3306, user='root', password='7117', db='spiders9', loop=loop)
-#         conn = await aiomysql.connect(host='localhost', port=3306, user='root', password='7117')
+#     await aiomysql.connect(host='localhost', port=3306, user='root', password='XXXX', db='spiders9', loop=loop)
+#         conn = await aiomysql.connect(host='localhost', port=3306, user='root', password='XXXX')
 #         cursor = await conn.cursor()
 #         await cursor.execute()
 
